@@ -1,4 +1,3 @@
-# CSE106_Project
 
 ## CSE 106 Project Overview
 - Substantial web application hosted live on the Web

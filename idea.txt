@@ -1,0 +1,7 @@
+Column 1 has home page, logout, posts of everyone, those you follow, and your posts.
+Column 2 is display of posts
+Column 3 is an extra ideas
+Extra ideas: Profile pic, comments
+
+
+https://nypost.com/wp-content/uploads/sites/2/2020/10/walmart-1.jpg?quality=90&strip=all

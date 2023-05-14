@@ -1,0 +1,42 @@
+<html>
+    <link rel="stylesheet" href= "../static/style.css">
+ <head>
+    <style>
+    </style>
+ </head>
+ <body class = "entire">
+    <div class="row">
+        <div class="column left">
+            <h2>Home</h2>
+            <button class = "out" onclick="loadPostPage()">Create a Post</button>
+            <br>
+            <br>
+            <button class = "out" onclick='loadUserPost()'>Show my Post</button>
+            <br>
+            <br>
+            <button class = "out" onclick='loadAllPosts()'>Show All Posts</button>
+            <br>
+            <br>
+            <button class = "out" onclick='loadFollowPost()'>People I'm following Posts</button>
+            <br>
+            <br>
+            <button class = "out" onclick="getshared()">Shared Posts</button>
+            <br>
+            <br>
+            <button class = "out" onclick="logout()">Logout</button>
+        </div>
+        <div class="column middle">
+            <h2>Welcome</h2>
+            <p></p>
+            <table class = "usertable" id = "display"></table>
+        </div>
+        <div class="column right">
+            <h2>Sharing Post</h2>
+            <p></p>
+            
+            <table class = "usertable2" id = "display2"></table>
+        </div>
+    </div>
+    <script src="../static/main.js"></script>
+ </body>
+</html>

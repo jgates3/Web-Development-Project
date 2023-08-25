@@ -1,5 +1,5 @@
 
-## CSE 106 Project Overview
+## Web Development and Design Project Overview
 - Substantial web application hosted live on the Web
 - Requires a database, server, and front end
 - Requires user sign up and login with hashed/salted passwords
